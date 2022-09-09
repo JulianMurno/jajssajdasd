@@ -1,0 +1,13 @@
+.navbar-custom{
+    display: flex;
+    width: 100%;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-end;
+
+    padding: "0px 50px";
+    position: sticky;
+    top: 0;
+    left: 0;
+    z-index: 1000;
+}
